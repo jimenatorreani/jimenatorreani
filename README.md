@@ -77,5 +77,3 @@ Actualmente estoy ampliando mi portfolio con proyectos orientados al desarrollo 
 ---
 
 ✨ *"Impulsá tu carrera con proyectos que hablan por vos."*
-
-✨ *"Impulsá tu carrera con proyectos que hablan por vos."*
