@@ -46,7 +46,7 @@ Me motiva crear proyectos que combinen funcionalidad, estética y una experienci
 
 ### 💼 Proyecto destacado
 
-#### 🛒 SportXpress|Tienda Deportiva – Aplicación web de compras online
+#### 🛒 SportXpress | Tienda Deportiva – Aplicación web de compras online
 **Descripción:**  
 Aplicación web que permite realizar compras de indumentaria deportiva desde cualquier dispositivo.  
 El usuario puede:
@@ -64,7 +64,7 @@ El usuario puede:
 ---
 
 ### 🌟 En proceso
-Actualmente estoy ampliando mi portfolio con proyectos orientados al desarrollo web y la creación de contenido digital aplicado a distintas áreas (comercial, institucional y política).
+Actualmente estoy ampliando mi portfolio con proyectos orientados al desarrollo de programas y la creación de contenido digital aplicado a distintas áreas (comercial, institucional y política).
 
 ---
 
