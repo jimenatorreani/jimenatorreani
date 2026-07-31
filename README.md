@@ -34,10 +34,10 @@ Me motiva crear proyectos que combinen funcionalidad, estética y una experienci
 ### 🧠 Tecnologías y herramientas
 
 🖥️ **Lenguajes y frameworks**  
-`PHP` · `JavaScript` · `HTML` · `CSS` · `SQL` · `CodeIgniter` · `Bootstrap`
+`PHP` · `JavaScript` · `HTML` · `CSS` · `SQL` · `CodeIgniter` · `Bootstrap` · `Laravel`
 
 ⚙️ **Herramientas y entornos**  
-`Git` · `Visual Studio Code` · `MySQL`  
+`Git` . `GitHub` · `Visual Studio Code` · `MySQL` . `Laravel Herd` 
 
 🎨 **Diseño y creatividad**  
 `Canva` · `Figma` · *otros recursos digitales de edición y composición visual*  
@@ -46,20 +46,20 @@ Me motiva crear proyectos que combinen funcionalidad, estética y una experienci
 
 ### 💼 Proyecto destacado
 
-#### 🛒 Mini Market – Aplicación web de compras online
+#### 🛒 SportXpress|Tienda Deportiva – Aplicación web de compras online
 **Descripción:**  
-Aplicación web que permite realizar compras diarias de supermercado desde cualquier dispositivo.  
+Aplicación web que permite realizar compras de indumentaria deportiva desde cualquier dispositivo.  
 El usuario puede:
-- Navegar por **5 categorías básicas de productos**  
+- Navegar por **3 categorías básicas de productos**  
 - Seleccionar cantidad y añadir al carrito  
 - Pagar con **billeteras virtuales, tarjeta de débito o crédito**  
 - Elegir modalidad de entrega (**retiro en local** o **envío a domicilio**)  
 - Recibir un **ticket digital** tras completar el pago  
 
 **Tecnologías utilizadas:**  
-`PHP` · `CodeIgniter` · `Bootstrap` · `MySQL` · `HTML` · `CSS`  
+`PHP` · `Laravel` · `Bootstrap` · `MySQL` · `HTML` · `CSS`  
 
-📂 *Repositorio disponible próximamente*
+📂 *Repositorio disponible*
 
 ---
 
